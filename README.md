@@ -8,3 +8,5 @@
     - courses > videos >
 - Mewsli-9
 - University Course
+    - courses: name, courses' description in text
+    - learning concepts, preqs relations
