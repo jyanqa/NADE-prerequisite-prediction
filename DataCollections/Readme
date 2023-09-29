@@ -13,3 +13,7 @@ For CSEN and EcoEN, we select the POS tagger implemented by the Stanford NLP gro
 Candidate course concepts extrated from the dataset.
 The "label" field is the human annotated label for a candidate.
 "1" stands for a course concept and "0" otherwise.
+
+Souces:
+- paper: http://lfs.aminer.cn/misc/moocdata/publications/ijcnlp2017-pan-et-al-concept-extraction-mooc.pdf
+- data: http://moocdata.cn/data/concept-extraction#Course%20Concept%20Extraction
