@@ -1,2 +1,6 @@
 # prerequisite-text-extracttion
-tbd
+
+## Dataset
+- Fredin's thesis
+- Mooc-data
+- Mewsli-9
