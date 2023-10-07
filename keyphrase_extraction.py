@@ -131,7 +131,7 @@ trainer = Trainer(
 trainer.train()
 
 # Evaluate on the validation set
-trainer.evaluate()
+print(trainer.evaluate())
 
 # Predict on the test data
 prediction = trainer.predict(dataset_dict['test'])
