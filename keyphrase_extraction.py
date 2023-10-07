@@ -136,7 +136,7 @@ trainer.evaluate()
 # Predict on the test data
 prediction = trainer.predict(dataset_dict['test'])
 
-# Get predicted logits, true labels, and example data
+# Get predicted logits, predicted labels, and true labels
 predicted_logits = prediction.predictions
 predicted_labels = np.argmax(predicted_logits, axis=-1)
 true_labels = prediction.label_ids
