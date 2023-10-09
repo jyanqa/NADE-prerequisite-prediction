@@ -3,14 +3,13 @@
 - Prerequisite relations for each concept pair are manualy annoatted from a list of 208 concepts provided in (Fabbri et al. 2018). 
 
 
-# stast
-## text folder
-### pdf folder 
-- including 329 files in pdf format
-### pptx folder
-- including 136 files in powerpoint format
-### others
+# Files
 - Vocabulary.txt -  1221 terms - (LEARNING CONCEPTS)
 - Taxonomy.tsv - 999 terms - (GIVEN CATEGORIES)
 - 208topics.csv - 208 terms - (From paper of Fabbri et al. 2018)
 - prerequisite_annotation.csv - 42750 pairs - (all possible pairs from the 208 terms)
+## text folder
+##### pdf folder 
+- including 329 files in pdf format
+##### pptx folder
+- including 136 files in powerpoint format
