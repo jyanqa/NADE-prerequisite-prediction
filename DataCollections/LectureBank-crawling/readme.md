@@ -5,10 +5,11 @@
 
 # Files
 - Vocabulary.txt -  1221 terms - (LEARNING CONCEPTS)
+### dependencies
 - Taxonomy.tsv - 999 terms - (GIVEN CATEGORIES)
 - 208topics.csv - 208 terms - (From paper of Fabbri et al. 2018)
 - prerequisite_annotation.csv - 42750 pairs - (all possible pairs from the 208 terms)
-## text folder
+### text folder
 ##### pdf folder 
 - including 329 files in pdf format
 ##### pptx folder
