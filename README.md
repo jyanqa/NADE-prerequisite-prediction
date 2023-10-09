@@ -10,3 +10,6 @@
 - University Course
     - courses: name, courses' description in text
     - general list of:  learning concepts, preqs relations, numer of annotators
+## Task 1
+
+## Task 2
