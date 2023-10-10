@@ -9,7 +9,7 @@
     - courses =  a list of videos = a list of captions
 - University Course
     - courses: name, courses' description in text
-    - general list of:  learning concepts, preqs relations, numer of annotators
+    - general list of:  learning concepts, preqs relations, number of annotators
 - LectureBank
     - text from pdf and pptx files #todo: to extract pdftotext and pptx2text
     - vocabulary.txt: a list of learning concepts
