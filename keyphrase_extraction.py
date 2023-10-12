@@ -103,6 +103,9 @@ def my_compute_metrics(eval_pred):
 
 # Load pretrained model
 model_name = 'ml6team/keyphrase-extraction-distilbert-inspec'
+# model_name = 'ml6team/keyphrase-extraction-kbir-semeval2017'
+# model_name = 'ml6team/keyphrase-extraction-kbir-inspec'
+# model_name = 'Voicelab/vlt5-base-keywords'
 model = AutoModelForTokenClassification.from_pretrained(model_name)
 
 # Define training arguments
