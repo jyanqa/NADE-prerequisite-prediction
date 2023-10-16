@@ -2,8 +2,8 @@ import os
 from PyPDF2 import PdfReader
 
 # Replace this with the directory path where your PDF files are located
-pdf_directory = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/pdf2txt-pptx2txt/pdf/'
-txt_file_path = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/pdf2txt-pptx2txt/'+ 'output.txt'
+pdf_directory = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/LectureBank-crawling/pdf2txt-pptx2txt/pdf/'
+txt_file_path = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/LectureBank-crawling/pdf2txt-pptx2txt/'+ 'output.txt'
 # Loop through files in the directory
 for filename in os.listdir(pdf_directory):
     if filename.endswith('.pdf'):

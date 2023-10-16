@@ -2,10 +2,10 @@ import os
 from pptx import Presentation
 
 # Replace this with the directory path where your PowerPoint files are located
-pptx_directory = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/pdf2txt-pptx2txt/pptx/'
+pptx_directory = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/LectureBank-crawling/pdf2txt-pptx2txt/pptx/'
 
 # Replace 'output.txt' with the name of the TXT file you want to create
-txt_file_path = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/pdf2txt-pptx2txt/'+ 'output_pptx.txt'
+txt_file_path = '/Users/Jyanqa/Desktop/thesis/prerequisite-text-extracttion/LectureBank-crawling/pdf2txt-pptx2txt/'+ 'output_pptx.txt'
 
 # Initialize an empty string to store the extracted text
 text = ""
