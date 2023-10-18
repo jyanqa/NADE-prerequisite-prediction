@@ -32,3 +32,10 @@ If you have any problems, please contact Chen Liang at <cul226@ist.psu.edu>.
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 ![Alt](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+
+
+*** MY self-NOTE
+- cs_annotation.tsv are the same at the cs_preqs.csv (plus the annotators' decisions)
+- cs_edges.csv is edges between courses
+- cs_courses.csv is the text file... coures' description

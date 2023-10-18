@@ -1,7 +1,7 @@
 # prerequisite-text-extracttion
 
 ## Dataset
-- Fredin's thesis
+- Fredin's thesis: the complete testset is added
 - Mewsli-9
 - Mooc-data
     - candidates: labels (1 if the candidates is a learning concepts, doubly annotated), k-gams information, text = a list of learning concepts
