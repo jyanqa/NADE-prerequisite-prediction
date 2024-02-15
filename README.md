@@ -1,4 +1,4 @@
-# prerequisite-text-extracttion
+# to be updated soon..
 
 ## Dataset
 - Fredin's thesis: the complete testset is added
