@@ -1,0 +1,605 @@
+,concept1,concept2,label,prediction_result,prediction_result_encode
+0,Partial differential equation,Data warehouse,0, No,0
+1,Application programming interface,Computer network,0, No,0
+2,Programming language,Computer programming,1, No,0
+3,Prolog,Programming language,1, No,0
+4,Monad (functional programming),Game theory,0, No,0
+5,Database normalization,Database,1, No,0
+6,Sentiment analysis,Conditional probability,0, No,0
+7,Query language,Undecidable problem,0, No,0
+8,Formal verification,Prediction,0, No,0
+9,Quantum computer,Software design,0, No,0
+10,Regular language,Finite-state machine,1, No,0
+11,Relational database,Database,1, No,0
+12,Program analysis,Complexity class,0, No,0
+13,Linear algebra,Polynomial,1, Yes,1
+14,Computational geometry,Ray tracing (graphics),0, Comput,0
+15,Query language,Programming language,1, No,0
+16,Divide and conquer algorithm,Fast Fourier transform,0, No,0
+17,Fourier analysis,Knowledge representation and reasoning,0, No,0
+18,Very long instruction word,Halting problem,0, No,0
+19,Computational geometry,Mathematics,1, Comput,1
+20,Machine learning,Probability,1, No,0
+21,Bayesian network,Random variable,1, No,0
+22,Scope (computer science),Variable (computer science),1, No,0
+23,Divide and conquer algorithm,Recursion,1, No,0
+24,Symbol table,Computer science,1, A,1
+25,Image analysis,Computer science,1, Image,1
+26,Finite set,Mathematics,1, The,1
+27,Mobile device,Python (programming language),0, No,0
+28,Superscalar,Multi-core processor,1, No,0
+29,Uncertainty,Data (computing),0, The,0
+30,Sequence alignment,Probability,1, No,0
+31,Authentication,Object-oriented programming,0, Authentication,0
+32,Atomicity (database systems),Semidefinite programming,0, No,0
+33,String (computer science),Data structure,1, Yes,1
+34,Algorithm design,Algorithm,1, No,0
+35,Distributed computing,Computer network,1, No,0
+36,Object (computer science),Geometric modeling,0, No,0
+37,Syntax,Data structure,0, The,0
+38,Neural network,Pattern recognition,1, No,0
+39,Decision theory,Automata theory,0, Dec,0
+40,Query optimization,Index (database),1, No,0
+41,Variable (computer science),Computer science,0, No,0
+42,Lexical semantics,Finite element method,0, Lex,0
+43,Inference,World Wide Web,0, No,0
+44,Inference,Public-key cryptography,0, No,0
+45,Coding theory,Software development,0, Yes,1
+46,Reinforcement learning,Symmetric multiprocessing,0, No,0
+47,Turing machine,Computation,1, The,1
+48,Python (programming language),Object-oriented programming,1, No,0
+49,Kernel (computing),Image,0, No,0
+50,System call,Operating system,1, Yes,1
+51,Software engineering,Computer,1, No,0
+52,Robotics,Analysis of algorithms,1, No,0
+53,Cryptanalysis,Abstraction (computer science),0, No,0
+54,Routing,Information security,0, Yes,1
+55,Markov chain,Random variable,1, No,0
+56,Question answering,Artificial intelligence,1, No,0
+57,Programming language,Automata theory,1, No,0
+58,Randomness,Dynamic memory allocation,0, No,0
+59,Parsing,Regular language,1, No,0
+60,Software development,Computer programming,1, No,0
+61,Computational complexity theory,Bayesian,0, Comput,0
+62,Graphical user interface,Higher-order function,0, No,0
+63,Web search engine,Algorithm,1, No,0
+64,Lock (computer science),Big data,0, The,0
+65,Context-free language,Object (computer science),0, The,0
+66,Robot,Inference,0, No,0
+67,Concurrency control,Computer science,1, Conc,1
+68,Packet switching,Random graph,0, No,0
+69,Query optimization,Human-computer interaction,0, No,0
+70,Computer vision,Pattern recognition,1, Yes,1
+71,Haskell (programming language),Mobile device,0, No,0
+72,Scientific visualization,Communication,0, No,0
+73,Hash table,Complexity class,0, No,0
+74,Foundations of mathematics,Uncertainty,0, The,0
+75,Concurrent computing,Mathematical proof,0, Con,0
+76,Java (programming language),Computer,1, No,0
+77,Natural language processing,Unsupervised learning,1, No,0
+78,String (computer science),Instruction set,0, The,0
+79,Computer animation,Differential equation,0, No,0
+80,Java (programming language),Scope (computer science),1, No,0
+81,Rendering (computer graphics),Shading,1, Yes,1
+82,Very long instruction word,Quantum cryptography,0, No,0
+83,Security,Communications protocol,0, The,0
+84,Document classification,Machine learning,1, No,0
+85,Memory hierarchy,Cryptanalysis,0, No,0
+86,Sentiment analysis,Machine learning,1, No,0
+87,Computer security,Database management system,0, No,0
+88,Approximation algorithm,Introduction to Algorithms,1, No,0
+89,Complexity,Mathematics,1, The,1
+90,Context-free language,Matrix (mathematics),0, The,0
+91,Random graph,Combinatorics,1, No,0
+92,Graphical model,Random variable,1, No,0
+93,Unix,Computer,1, No,0
+94,String (computer science),Quantum computer,0, No,0
+95,Mutual exclusion,Distributed algorithms,0, No,0
+96,Compiler,Computer programming,1, The,1
+97,Computer vision,Image processing,1, Yes,1
+98,MapReduce,Parallel computing,1, No,0
+99,Data mining,Algorithm,1, Yes,1
+100,Congestion control,Computer network,1, Yes,1
+101,Fixed point (mathematics),Mathematics,1, No,0
+102,Computer,Arithmetic,1, No,0
+103,Cryptography,Computer security,1, Yes,1
+104,Software framework,Computer programming,1, The,1
+105,Computer graphics,User interface design,0, Yes,1
+106,Malware,Information security,1, Yes,1
+107,Logic,World Wide Web,0, The,0
+108,Software development,Computer science,1, The,1
+109,Parsing,Context-free language,1, Yes,1
+110,Parsing,Computer programming,1, No,0
+111,Algorithm,Computation,1, No,0
+112,Scheduling (computing),Python (programming language),0, No,0
+113,Index (database),Computer programming,1, No,0
+114,Information security,Communication,0, No,0
+115,Natural language processing,Graph theory,1, No,0
+116,Randomized algorithm,Support vector machine,0, No,0
+117,Context-free language,Foundations of mathematics,0, The,0
+118,Routing,Time complexity,0, No,0
+119,Public-key cryptography,Discrete mathematics,1, No,0
+120,Algorithm,Polynomial,1, No,0
+121,Algorithm,Computer science,1, The,1
+122,Bayesian network,Operating system,0, No,0
+123,Computational chemistry,Algorithm,1, No,0
+124,Inference,Data type,0, No,0
+125,Model checking,Algorithm,1, No,0
+126,3D computer graphics,Image processing,1, No,0
+127,Object-oriented programming,Computer programming,1, No,0
+128,Parallel computing,Shared memory,1, No,0
+129,Data mining,Data,1, No,0
+130,NP-complete,Computer science,1, No,0
+131,Graphical model,Algebra,0, No,0
+132,Ray tracing (graphics),Computer graphics,1, Ray,1
+133,Dynamic programming,Introduction to Algorithms,1, Yes,1
+134,Mathematical proof,Programmer,0, No,0
+135,Cloud computing,Motion capture,0, No,0
+136,Input/output,Data warehouse,0, Yes,1
+137,Index (database),Database,1, No,0
+138,Graphics,Communications protocol,0, No,0
+139,Kinematics,Entropy,0, Yes,1
+140,Compiler,Inference,0, No,0
+141,Distributed algorithms,File system,0, No,0
+142,Analysis of algorithms,Probability theory,1, The,1
+143,Probability,Uncertainty,1, The,1
+144,Programming language,Data analysis,0, No,0
+145,Unsupervised learning,Computer simulation,0, No,0
+146,Vector processor,Parallel computing,1, No,0
+147,Combinatorics,Dynamic programming,0, No,0
+148,Computer software,Arithmetic,0, No,0
+149,Game theory,Mathematical optimization,1, Game,1
+150,Computational problem,Computer science,1, The,1
+151,Theory of computation,Firewall (computing),0, The,0
+152,Query optimization,Software framework,0, No,0
+153,Python (programming language),Imperative programming,1, No,0
+154,Database system,Database,1, No,0
+155,Context-free grammar,Transaction processing,0, No,0
+156,Machine learning,Computer science,1, No,0
+157,Pushdown automaton,Computability,1, No,0
+158,Volume rendering,Graphical user interface,0, No,0
+159,Stochastic,Lexical analysis,0, No,0
+160,Recursion (computer science),Programming language,1, No,0
+161,Boundary value problem,Partial differential equation,1, No,0
+162,Parametric polymorphism,Data type,1, No,0
+163,C (programming language),Computer,1, No,0
+164,Stack (data structure),Array data structure,1, Yes,1
+165,Concurrency (computer science),Amortized analysis,0, Yes,1
+166,Relational algebra,Motion capture,0, No,0
+167,Statistics,Web browser,0, No,0
+168,Abstraction (computer science),Finite-state machine,0, Ab,0
+169,Cryptanalysis,Algorithm,1, No,0
+170,Algorithm,Abstraction (computer science),1, No,0
+171,Knowledge representation and reasoning,Synchronization,0, Yes,1
+172,Microprocessor,Analysis of algorithms,0, No,0
+173,Scripting language,Scheduling (computing),0, No,0
+174,Embedded system,Computer,1, No,0
+175,Approximation,Index (database),0, No,0
+176,Compiler,Programming language,1, The,1
+177,Web browser,Computer programming,0, No,0
+178,Computational complexity theory,Computability,1, Comput,1
+179,Algorithm design,Mathematics,1, The,1
+180,Coding theory,Computer science,1, Yes,1
+181,Internet,Computer network,1, No,0
+182,Computer simulation,Computer science,1, The,1
+183,Algebra,Combinatorics,0, No,0
+184,Document classification,Computer science,1, No,0
+185,Linear programming,Algorithm,1, No,0
+186,Poisson distribution,Probability theory,1, No,0
+187,Robot,File system,0, No,0
+188,Motion capture,Computer graphics,1, No,0
+189,Deadlock,Generic programming,0, No,0
+190,Reinforcement learning,Artificial intelligence,1, Rein,1
+191,Quantum mechanics,Distributed computing,0, No,0
+192,Discrete mathematics,Mathematics,1, Dis,1
+193,Undecidable problem,Deadlock,0, No,0
+194,Conditional probability,Random walk,0, No,0
+195,Floating point,Polymorphism (computer science),0, No,0
+196,Algorithm,Integer,1, No,0
+197,User interface design,Perl,0, No,0
+198,Formal language,Software design,0, No,0
+199,Database design,Automata theory,0, No,0
+200,Natural language processing,Distributed algorithms,0, No,0
+201,Speech recognition,Automated theorem proving,0, No,0
+202,Theoretical computer science,Discrete mathematics,1, No,0
+203,Parallel computing,Computer science,1, No,0
+204,Garbage collection (computer science),Interface (computing),0, No,0
+205,Integer,Image processing,0, No,0
+206,Computer graphics,Personal computer,1, No,0
+207,Logic,ML (programming language),0, The,0
+208,Parallel computing,Lock (computer science),1, No,0
+209,SQL,Computer science,1, No,0
+210,User interface,Computer programming,1, No,0
+211,Ordinary differential equation,Mathematics,1, No,0
+212,Speech recognition,Computer science,1, No,0
+213,Computational complexity theory,Computer science,1, Comput,1
+214,Visualization (computer graphics),Geometry,1, No,0
+215,Python (programming language),Computer,1, No,0
+216,Authentication,Programmer,0, Authentication,0
+217,Game theory,Garbage collection (computer science),0, Game,0
+218,Distributed algorithms,Dynamic programming,0, No,0
+219,Computer programming,Computer science,1, No,0
+220,Cryptography,User interface design,0, No,0
+221,Numerical analysis,Expert system,0, No,0
+222,Recurrence relation,Algorithm,1, No,0
+223,Computer graphics,Computer,1, No,0
+224,Operating system,Parallel algorithm,0, No,0
+225,Mathematics,Dynamic programming,0, Yes,1
+226,Java (programming language),Computer programming,1, No,0
+227,Volume rendering,Geometric modeling,0, No,0
+228,GPU,Bioinformatics,0, No,0
+229,Large deviations theory,Random variable,1, Lar,1
+230,Fast Fourier transform,Algorithm,1, No,0
+231,Linear algebra,User interface,0, No,0
+232,Communication,Database management system,0, Yes,1
+233,Support vector machine,Approximation algorithm,0, No,0
+234,Correlation and dependence,Random variable,1, No,0
+235,Robotics,Software engineering,1, No,0
+236,Lisp (programming language),Garbage collection (computer science),0, No,0
+237,Bioinformatics,MATLAB,0, No,0
+238,Discrete mathematics,Algebra,1, Dis,1
+239,Relational database,Computer programming,1, No,0
+240,SQL,Programming language,1, No,0
+241,Database management system,Eigenvalues and eigenvectors,0, No,0
+242,Spanning tree,Graph theory,1, No,0
+243,Quantum mechanics,ML (programming language),0, No,0
+244,Parsing,Natural language,1, The,1
+245,Database,Compiler,0, No,0
+246,Fixed point (mathematics),Numerical analysis,0, No,0
+247,Round-off error,Generic programming,0, No,0
+248,Programming style,Lazy evaluation,0, No,0
+249,Parallel algorithm,Algorithm,1, No,0
+250,Round-off error,Interpolation,0, No,0
+251,Tensor,Program analysis,0, No,0
+252,Relational model,Data type,1, No,0
+253,Database normalization,Pattern recognition,0, No,0
+254,Programming language,Scientific modelling,0, No,0
+255,Logic programming,Computer programming,1, Log,1
+256,Artificial intelligence,Data structure,1, The,1
+257,Stochastic process,Probability theory,1, No,0
+258,Quantum cryptography,Cryptography,1, Quant,1
+259,P versus NP problem,Algorithm,1, No,0
+260,Model checking,Shared memory,0, No,0
+261,Context-free grammar,Communications protocol,0, No,0
+262,Internet,Interpolation,0, No,0
+263,Quantum mechanics,Continuous function,1, No,0
+264,Iterative method,Numerical analysis,1, No,0
+265,Linked list,Bayesian,0, No,0
+266,Monte Carlo method,NP (complexity),0, No,0
+267,Mathematical model,Image analysis,0, No,0
+268,Arithmetic logic unit,Digital electronics,1, No,0
+269,Programming language,Computability,1, No,0
+270,Image processing,Computer programming,1, No,0
+271,String searching algorithm,Introduction to Algorithms,1, Yes,1
+272,Assembly language,Computer,1, No,0
+273,Randomized algorithm,Nonlinear system,0, No,0
+274,Finite-state machine,Theory of computation,1, Yes,1
+275,Robotics,Mechanical engineering,1, No,0
+276,Higher-order function,Cloud computing,0, No,0
+277,Knowledge representation and reasoning,Computer,0, Yes,1
+278,Neural network,Graph theory,0, No,0
+279,Parallel computing,Formal methods,0, No,0
+280,Unsupervised learning,Debugging,0, No,0
+281,Artificial intelligence,Computer science,1, No,0
+282,Time complexity,Turing machine,1, No,0
+283,Data analysis,Concurrent computing,0, Con,0
+284,Transaction processing,Computer programming,1, No,0
+285,Virtual memory,Computer architecture,1, Virtual,1
+286,Relational database management system,Relational model,1, No,0
+287,Computer network,Markov process,0, No,0
+288,Haskell (programming language),Pattern recognition,0, No,0
+289,Random walk,Expected value,1, No,0
+290,Feature extraction,Semidefinite programming,0, No,0
+291,Decision theory,Statistical inference,1, Dec,1
+292,Logic programming,Computer science,1, Log,1
+293,Parallel computing,Dynamic programming,0, No,0
+294,Complexity,Signal processing,0, The,0
+295,Dynamic programming,Rendering (computer graphics),0, Dynamic,0
+296,Iterative method,Quantum computer,0, No,0
+297,Computer graphics,Question answering,0, No,0
+298,Pattern matching,Multiplication,0, Yes,1
+299,Automatic programming,Computer programming,1, No,0
+300,Number theory,hypothesis testing,0, No,0
+301,GPU,NP-complete,0, No,0
+302,Speech recognition,Markov chain,1, No,0
+303,Big data,Computer science,1, The,1
+304,Reinforcement learning,Python (programming language),0, No,0
+305,Software design,System programming,0, The,0
+306,SQL,Computer programming,1, No,0
+307,Transaction processing,Computer science,1, No,0
+308,Instruction set,Reinforcement learning,0, No,0
+309,Computational geometry,Computability,0, No,0
+310,Polynomial,Introduction to Algorithms,0, The,0
+311,Graph coloring,Dynamic programming,1, No,0
+312,Statistics,Wavelet,0, No,0
+313,Database management system,Computer,1, No,0
+314,Debugging,Software framework,0, Debug,0
+315,Computation,Dynamic memory allocation,0, Yes,1
+316,Wavelet,Algorithm design,0, No,0
+317,Arithmetic,Fourier analysis,0, No,0
+318,Reinforcement learning,Uncertainty,0, No,0
+319,Web service,Computer simulation,0, No,0
+320,Concurrency (computer science),Object-oriented programming,0, Conc,0
+321,Relational database,Entropy,0, No,0
+322,OSI model,JavaScript,0, No,0
+323,Programmer,Image processing,0, No,0
+324,Algorithm design,Analysis of algorithms,1, Yes,1
+325,Motion capture,Firewall (computing),0, No,0
+326,Hidden Markov model,Probability,1, No,0
+327,Internet,OSI model,1, No,0
+328,Analysis of algorithms,Computational complexity theory,1, Yes,1
+329,Finite element method,Polynomial,1, No,0
+330,Randomized algorithm,Computational complexity theory,1, No,0
+331,Conditional probability,Quantum computer,0, No,0
+332,Database management system,Computer science,1, Yes,1
+333,Server (computing),Robot,0, No,0
+334,Random walk,Model checking,0, No,0
+335,Exponential family,Computer security,0, No,0
+336,Divide and conquer algorithm,Algorithm,1, No,0
+337,Visualization (computer graphics),Multiplication,0, No,0
+338,Python (programming language),Variable (computer science),1, No,0
+339,JavaScript,Programming language,1, No,0
+340,Index (database),Data type,0, No,0
+341,Concurrent computing,Computer,1, No,0
+342,Suffix tree,String searching algorithm,1, No,0
+343,Database normalization,Partial differential equation,0, No,0
+344,Structured programming,Programming language,1, Struct,1
+345,Functional programming,Computer programming,1, No,0
+346,Cryptography,Computer science,1, No,0
+347,Graphical user interface,Web service,0, The,0
+348,Volume rendering,Pattern recognition,0, No,0
+349,Polymorphism (computer science),Programming language,1, No,0
+350,Linked list,Cloud computing,0, No,0
+351,Bayesian network,Database normalization,0, No,0
+352,Computer network,Data,1, No,0
+353,Symbol table,Compiler,1, The,1
+354,Kernel (computing),Machine learning,0, No,0
+355,Debugging,Mutual exclusion,0, No,0
+356,Autonomous robot,Cloud computing,0, No,0
+357,Design of experiments,Firewall (computing),0, No,0
+358,Floating point,Malware,0, No,0
+359,Bayesian probability,Data,1, No,0
+360,Martingale (probability theory),Markov chain,1, No,0
+361,Random walk,Abstract data type,0, No,0
+362,Cloud computing,File system,0, No,0
+363,Knowledge representation and reasoning,Mathematics,1, Yes,1
+364,Transaction processing,Natural language,0, No,0
+365,Pushdown automaton,Finite-state machine,1, No,0
+366,Compiler,Assembly language,1, The,1
+367,Wavelet,Signal processing,1, No,0
+368,Dynamic programming,Algorithm design,1, Yes,1
+369,Model of computation,Computer science,1, The,1
+370,Imperative programming,Control flow,1, No,0
+371,Bayesian,Internet,0, No,0
+372,Robotics,Computer programming,1, No,0
+373,Computer network,Computer,1, No,0
+374,String (computer science),Bioinformatics,0, No,0
+375,Finite-state machine,Unsupervised learning,0, No,0
+376,Query optimization,Visualization (computer graphics),0, No,0
+377,Pattern matching,String (computer science),1, Yes,1
+378,Parsing,Programming language,1, The,1
+379,SQL,Database,1, No,0
+380,Automated planning and scheduling,Artificial intelligence,1, Autom,1
+381,Computer architecture,Probability,0, No,0
+382,Graph (mathematics),Discrete mathematics,1, No,0
+383,Question answering,Statistics,0, No,0
+384,Computer software,Computer,1, No,0
+385,Computer science,Logic,1, The,1
+386,Distributed algorithms,Interface (computing),0, No,0
+387,Computer network,Graph (mathematics),1, No,0
+388,Linear algebra,Matrix (mathematics),1, Yes,1
+389,Variable (computer science),Symmetric multiprocessing,0, No,0
+390,Type system,Regular expression,0, No,0
+391,Hash table,Markov process,0, No,0
+392,Mobile device,Halting problem,0, No,0
+393,Parsing,Message passing,0, No,0
+394,Computational complexity theory,Theory of computation,1, Comput,1
+395,Recursion,Algorithm,1, No,0
+396,Quantum cryptography,Abstract data type,0, No,0
+397,Matrix (mathematics),Mathematics,1, No,0
+398,Wavelet,Data mining,0, No,0
+399,Finite difference,Boundary value problem,1, No,0
+400,Graph (mathematics),Mathematics,1, No,0
+401,Coding theory,Estimation theory,0, No,0
+402,Data mining,Artificial intelligence,1, No,0
+403,Denotational semantics,Linked list,0, Den,0
+404,Denotational semantics,Programming language,1, Den,1
+405,Lisp (programming language),Logic programming,1, No,0
+406,Synchronization,Scope (computer science),0, No,0
+407,Big data,Perl,0, No,0
+408,Cloud computing,Lisp (programming language),0, No,0
+409,Peer-to-peer,Martingale (probability theory),0, No,0
+410,Algebra,Mathematics,1, No,0
+411,Lisp (programming language),Computer science,1, No,0
+412,Software design,Computer programming,1, The,1
+413,Malware,Computer network,1, No,0
+414,Parsing,String (computer science),1, No,0
+415,Computer security,Run time (program lifecycle phase),0, No,0
+416,Embedded system,Variable (computer science),0, The,0
+417,Debugging,Polymorphism (computer science),0, No,0
+418,Random walk,Graph theory,1, No,0
+419,Mathematics,Foundations of mathematics,1, Yes,1
+420,Rendering (computer graphics),Computer graphics,1, No,0
+421,Sequence alignment,Relational database,0, No,0
+422,Software engineering,Programming language,1, No,0
+423,Relational database,Logic,0, No,0
+424,Markov chain,Probability theory,1, No,0
+425,Query optimization,Relational database,1, No,0
+426,Concurrency control,Analysis of algorithms,1, Conc,1
+427,Mathematical proof,Ray tracing (graphics),0, No,0
+428,Calculus,Concurrency (computer science),0, No,0
+429,Inter-process communication,Haskell (programming language),0, Inter,0
+430,Imperative programming,Programming language,1, No,0
+431,Dynamic programming,Scope (computer science),0, No,0
+432,Statistical inference,Data,1, No,0
+433,Automatic programming,Computer architecture,0, No,0
+434,Machine learning,Statistical inference,1, No,0
+435,Database normalization,Software framework,0, No,0
+436,Central processing unit,Computer,1, Yes,1
+437,Computer software,Operating system,1, Yes,1
+438,Message passing,Unsupervised learning,0, No,0
+439,Computer programming,Computational complexity theory,1, Yes,1
+440,Pushdown automata,Halting problem,0, No,0
+441,Query language,Computer programming,1, No,0
+442,NP-complete,Sparse matrix,0, No,0
+443,Syntax,Spanning tree,0, Yes,1
+444,Recursion (computer science),Type system,0, No,0
+445,Algorithm,Iterative method,1, No,0
+446,Integral,Relational algebra,0, No,0
+447,Integral,Time complexity,0, No,0
+448,Modular programming,Sufficient statistic,0, No,0
+449,Social network,Scientific modelling,0, No,0
+450,Web server,Message passing,0, No,0
+451,Geometric modeling,Calculus,0, No,0
+452,Shortest path problem,Graph theory,1, No,0
+453,User interface,Computer,1, No,0
+454,Approximation algorithm,Computer science,1, No,0
+455,Polymorphism (computer science),Peer-to-peer,0, No,0
+456,Ray tracing (graphics),Knowledge representation and reasoning,0, No,0
+457,Packet switching,Computer network,1, Yes,1
+458,Garbage collection (computer science),Computer animation,0, No,0
+459,Autonomous robot,Symmetric multiprocessing,0, No,0
+460,Ordinary differential equation,Boundary value problem,0, No,0
+461,Application programming interface,Computer programming,1, No,0
+462,Bayesian,Higher-order function,0, No,0
+463,Haskell (programming language),Object (computer science),0, No,0
+464,String (computer science),Database system,0, The,0
+465,Index (database),Quantum computer,0, No,0
+466,Recursion (computer science),Computer programming,1, Rec,1
+467,Foundations of mathematics,Conditional probability,0, Yes,1
+468,Lisp (programming language),Functional programming,1, No,0
+469,Software development,Object-oriented programming,1, No,0
+470,Visualization (computer graphics),Index (database),0, No,0
+471,Syntax,Natural language,1, The,1
+472,Computability,Computer science,1, Yes,1
+473,Probability,Query optimization,0, Yes,1
+474,Design of experiments,Multiplication,0, No,0
+475,Integer,Index (database),0, No,0
+476,Mathematical model,Mathematics,1, No,0
+477,OSI model,Computer network,1, No,0
+478,Monte Carlo method,Expected value,1, No,0
+479,Run time (program lifecycle phase),Random walk,0, No,0
+480,Computer programming,Arithmetic,1, No,0
+481,Web browser,Computer animation,0, No,0
+482,Run time (program lifecycle phase),Vector processor,0, No,0
+483,Formal verification,Computer science,1, F,1
+484,Database design,Relational database,1, Yes,1
+485,Discrete mathematics,Mathematical proof,1, Dis,1
+486,Profiling (computer programming),Inference,0, No,0
+487,Computer animation,Ray tracing (graphics),1, No,0
+488,Big data,Parsing,0, The,0
+489,Reason,Algorithm design,0, Yes,1
+490,Machine learning,Graph theory,1, No,0
+491,Computation,Scripting language,0, The,0
+492,Robotics,Design pattern (computer science),0, No,0
+493,Recursion,Arithmetic,0, No,0
+494,Computer security,Computer science,1, No,0
+495,Concurrency control,Fast Fourier transform,0, No,0
+496,Web server,Arithmetic logic unit,0, No,0
+497,Natural language processing,Natural language,1, The,1
+498,Image analysis,Polynomial,0, No,0
+499,Inheritance (object-oriented programming),Object (computer science),1, No,0
+500,Hidden Markov model,Dynamic programming,1, No,0
+501,Software design,Java (programming language),1, No,0
+502,Artificial intelligence,Reason,1, The,1
+503,Recursively enumerable set,Algorithm,1, No,0
+504,Parsing,Authentication,0, No,0
+505,Calculus,Algebra,1, No,0
+506,Parsing,Algorithm,1, No,0
+507,Kinematics,Relational algebra,0, Yes,1
+508,Decision theory,Algorithm,1, No,0
+509,Recursion,Web server,0, No,0
+510,Algorithm,Foundations of mathematics,1, No,0
+511,Computational complexity theory,Foundations of mathematics,1, Comput,1
+512,Web service,Congestion control,0, No,0
+513,Wavelet,ML (programming language),0, No,0
+514,Calculus,Arithmetic,1, No,0
+515,Haskell (programming language),Programming language,1, No,0
+516,Discrete mathematics,Abstraction (computer science),0, Yes,1
+517,Unsupervised learning,Programming style,0, No,0
+518,Bayesian probability,Random variable,1, No,0
+519,World Wide Web,Uncertainty,0, The,0
+520,NP (complexity),Computation,0, No,0
+521,Sufficient statistic,Random variable,1, No,0
+522,Question answering,Computability,0, No,0
+523,Prediction,Visualization (computer graphics),0, No,0
+524,Operating system,Input/output,1, No,0
+525,Object-oriented programming,Data type,1, No,0
+526,Parallel computing,Expert system,0, No,0
+527,Complexity class,Algorithm,1, No,0
+528,Java (programming language),Assembly language,0, No,0
+529,Coding theory,Firewall (computing),0, No,0
+530,Computer architecture,Computer science,1, Yes,1
+531,Computer programming,Computing,1, No,0
+532,Multi-core processor,Parallel computing,1, No,0
+533,Signal processing,Conditional probability,0, No,0
+534,Arithmetic,Software testing,0, No,0
+535,Newton's method,Approximation,1, No,0
+536,Cryptographic hash function,Information security,1, Yes,1
+537,String (computer science),Graph coloring,0, No,0
+538,Cryptography,Natural language processing,0, No,0
+539,Prolog,String (computer science),1, No,0
+540,Lexical analysis,Cloud computing,0, Lex,0
+541,Computer graphics,Algorithm,1, No,0
+542,Analysis of algorithms,GPU,0, The,0
+543,Question answering,Expert system,1, The,1
+544,Interpolation,Peer-to-peer,0, No,0
+545,Semantics,Syntax,1, No,0
+546,Software engineering,Uncertainty,0, No,0
+547,Computer,Routing,0, Yes,1
+548,Complexity,Polymorphism (computer science),0, No,0
+549,World Wide Web,Arithmetic,0, No,0
+550,Integral,Mathematics,1, The,1
+551,High-level programming language,Computer science,1, No,0
+552,Information theory,Probability theory,1, Yes,1
+553,Parsing,Recursion (computer science),0, No,0
+554,Partial differential equation,Mathematics,1, No,0
+555,Mutual exclusion,Graph (mathematics),0, No,0
+556,Mathematical optimization,Matrix (mathematics),1, Mathemat,1
+557,Distributed algorithms,Algorithm,1, No,0
+558,Computer animation,Geometry,0, No,0
+559,Analysis of algorithms,Graph theory,1, The,1
+560,Index (database),Vulnerability (computing),0, No,0
+561,Compiler optimization,Assembly language,1, No,0
+562,Object-oriented programming,High-level programming language,1, No,0
+563,Computer vision,Algorithm design,1, Yes,1
+564,Computer vision,Vulnerability (computing),0, The,0
+565,Complexity,Inference,0, The,0
+566,Fourier analysis,Entropy,0, No,0
+567,Big data,Computational science,0, The,0
+568,Numerical analysis,Data warehouse,0, N,0
+569,Image processing,Knowledge representation and reasoning,0, No,0
+570,Combinatorics,Human-computer interaction,0, No,0
+571,Analysis of algorithms,Mathematical induction,1, Yes,1
+572,Object-oriented programming,Programming language,1, No,0
+573,Syntax,Stochastic,0, No,0
+574,Formal language,Randomization,0, No,0
+575,Robotics,Natural language processing,0, No,0
+576,Document classification,Monad (functional programming),0, No,0
+577,Quantum mechanics,Randomness,1, No,0
+578,Parallel computing,Computing,1, No,0
+579,Data structure,Data type,1, Yes,1
+580,Combinatorics,Autonomous robot,0, The,0
+581,Relational model,Database,1, The,1
+582,Computer vision,Artificial intelligence,1, No,0
+583,Computer security,Security,1, Yes,1
+584,Markov chain,Expected value,1, No,0
+585,Algorithm,Object-oriented programming,0, No,0
+586,Recursion,Logic,1, No,0
+587,Markov process,Asymptotic analysis,0, No,0
+588,Scheduling (computing),Computing,1, No,0
+589,Programming paradigm,Computer science,1, No,0
+590,Automated theorem proving,Mathematical proof,1, Autom,1
+591,Monad (functional programming),NP-complete,0, No,0
+592,Analysis of algorithms,Computer science,1, Yes,1
+593,Recursion (computer science),Probability theory,0, Rec,0
+594,Assembly language,Syntax,1, No,0
+595,Bayesian,Artificial intelligence,0, No,0
+596,Nonlinear system,Model checking,0, No,0
+597,Recursion,Control flow,1, No,0
+598,ML (programming language),Programming language,1, The,1
+599,Application programming interface,Memory hierarchy,0, No,0
+600,Database,Algorithm design,1, Yes,1
+601,Algorithm,Data warehouse,0, The,0
+602,Problem solving,Software framework,0, The,0
+603,Quantum mechanics,Probability,1, No,0
