@@ -14,5 +14,5 @@
     - text from pdf and pptx files #todo: to extract pdftotext and pptx2text
     - vocabulary.txt: a list of learning concepts
 ## Task 1
-- Fine-tuning models
+
 ## Task 2
