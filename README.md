@@ -1,6 +1,6 @@
-# to be updated soon..
+# Learning concept prerequisite prediction in educational data
 
-## Dataset
+## Dataset Collection
 - Fredin's thesis: the complete testset is added
 - Mewsli-9
 - Mooc-data
@@ -13,6 +13,10 @@
 - LectureBank
     - text from pdf and pptx files #todo: to extract pdftotext and pptx2text
     - vocabulary.txt: a list of learning concepts
-## Task 1
+## Prerequisite prediction
+- Dataset: data-university-course
+- Code: Code_notebook
+- Report: ./result/Anh-prerequisite_prediction.pdf
 
-## Task 2
+Abstract: The project aims to adapt a pretrained prompting and prediction system to handle the task of predicting prerequisite dependencies in educational data, representing a fundamental step towards automatic extraction and detection of prerequisites in educational texts. Diverging from previous approaches that treated this task as a network science puzzle, the author leveraged the capabilities of Large Language Models (LLMs), such as GPT-3.5 and Llama 2, and compared their performance to smaller pre-trained models, including T5 and GPT-2. Results indicate that utilizing smaller pre-trained models through fine-tuning and prompting can yield significantly improved results, surpassing not only those Large language models but also demonstrating higher predictive performance compared to prior methodologies. This underscores the potential advantages of harnessing ordinary pre-trained models over LLMs in terms of performance and computational resources, prompting intriguing considerations regarding the trade-offs between model size and depth.
+
