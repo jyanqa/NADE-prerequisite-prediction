@@ -1,0 +1,101 @@
+,concept1,concept2,vote
+0,flux integral,vector,0
+1,skew lines,gravitational force,0
+2,electrostatic fields,skew lines,0
+3,harmonic function,electrostatic fields,5
+4,osculating circle,harmonic function,0
+5,parameter space,flux integral,0
+6,Green’s theorem,chambered nautilus,0
+7,saddle point,resonance,0
+8,mass flux,coordinate planes,0
+9,vector projection,magnitude,0
+10,cylinder,graph of a function of two variables,0
+11,normal plane,chain rule,0
+12,binormal vector,vector,0
+13,cylinder,Gauss’ law,1
+14,normal plane,direction cosines,0
+15,osculating circle,simple harmonic motion,0
+16,RLC series circuit,vector-valued functions,0
+17,saddle point,Bessel functions,5
+18,chain rule,cylinder,0
+19,spring-mass system,projectile motion,0
+20,vector-valued functions,vector projection,0
+21,skew lines,electrostatic fields,1
+22,resonance,topographical map,0
+23,Green’s theorem,vector,0
+24,linearly independent,force,0
+25,skew lines,harmonic function,0
+26,Green’s theorem,parallelepiped,0
+27,vector product,vector-valued functions,1
+28,Bessel functions,graph of a function of two variables,0
+29,contour map,coordinate planes,0
+30,vector projection,chambered nautilus,0
+31,force,cylinder,0
+32,parametric surface,cylinder,0
+33,contour map,projectile motion,0
+34,method of variation of parameters,Gauss’ law,5
+35,spring-mass system,constant multiple rule,0
+36,chambered nautilus,magnitude,0
+37,right-hand rule,product rule,0
+38,chambered nautilus,circulation,0
+39,superposition principle,parameter space,0
+40,vector,method of variation of parameters,1
+41,binormal vector,gravitational force,0
+42,sphere,chambered nautilus,0
+43,binormal vector,coordinate planes,0
+44,scalar,superposition principle,1
+45,coordinate planes,circulation,0
+46,method of variation of parameters,spring-mass system,5
+47,magnitude,electrostatic fields,1
+48,derivative,scalar,0
+49,scalar,chambered nautilus,0
+50,method of Lagrange multipliers,saddle point,0
+51,graph of a function of two variables,Gauss’ law,0
+52,determinant,constraints,0
+53,transformation,simple harmonic motion,1
+54,parametric surface,saddle point,1
+55,parameter space,constraints,1
+56,coordinate planes,saddle point,1
+57,product rule,mass flux,1
+58,vector,linearly independent,1
+59,vector product,gravitational force,1
+60,skew lines,direction cosines,1
+61,binormal vector,constraints,0
+62,parallelepiped,Bessel functions,0
+63,flux integral,direction cosines,0
+64,parameter space,method of variation of parameters,1
+65,linearly independent,partial differential equation,5
+66,RLC series circuit,Tacoma Narrows Bridge,0
+67,projectile motion,osculating circle,0
+68,skew lines,vector projection,0
+69,resonance,vector-valued functions,0
+70,right-hand rule,RLC series circuit,0
+71,resonance,harmonic function,0
+72,mass flux,vector,0
+73,parallelepiped,harmonic function,0
+74,parametric surface,contour map,1
+75,direction cosines,method of variation of parameters,0
+76,flux integral,vector projection,0
+77,conservative field,harmonic function,0
+78,magnitude,circulation,0
+79,parallelepiped,resonance,0
+80,simple harmonic motion,constant multiple rule,0
+81,vector projection,partial differential equation,0
+82,force,conservative field,1
+83,gravitational force,normal plane,0
+84,mass flux,binormal vector,0
+85,sphere,parameter space,0
+86,direction vector,normal plane,1
+87,vector projection,force,1
+88,harmonic function,vector product,0
+89,resonance,constant multiple rule,0
+90,normal plane,scalar,0
+91,vector product,parameter space,1
+92,Gauss’ law,contour map,0
+93,method of Lagrange multipliers,right-hand rule,0
+94,constant multiple rule,magnitude,0
+95,conservative field,product rule,0
+96,circulation,constraints,0
+97,method of variation of parameters,coordinate planes,0
+98,flux integral,chain rule,0
+99,transformation,right-hand rule,0
